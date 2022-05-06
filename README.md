@@ -18,7 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 # Api
 https://alquran.cloud/api
 
-#
 
 
 
