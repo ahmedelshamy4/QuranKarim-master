@@ -12,12 +12,12 @@ class AppThemeProvider extends ChangeNotifier {
 
   bool isDark = true;
 
-  void changeAppTheme({bool? currentTheme}) {
+  void changeAppTheme({bool? currentTheme, bool switchValue = false}) {
     if (currentTheme != null) {
       isDark = currentTheme;
       notifyListeners();
     } else {
-      isDark = !isDark;
+      isDark = switchValue;
       CacheHelper.setBooleanData(key: themeKey, value: isDark);
       notifyListeners();
     }

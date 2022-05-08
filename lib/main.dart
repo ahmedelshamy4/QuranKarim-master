@@ -84,10 +84,6 @@ class QuraniKarim extends StatelessWidget {
           darkTheme: AppTheme.dartTheme,
           themeMode:
               AppThemeProvider().isDark ? ThemeMode.dark : ThemeMode.light,
-          // themeMode:
-          //     context.select<AppThemeProvider, bool>((value) => value.isDark)
-          //         ? ThemeMode.dark
-          //         : ThemeMode.light,
         ),
       ),
     );

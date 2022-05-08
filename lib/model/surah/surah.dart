@@ -12,7 +12,7 @@ class Surah extends HiveObject {
   final String revelationType;
   @HiveField(3)
   final List<Ayah> ayahs;
-
+ 
   Surah({
     required this.number,
     required this.name,
