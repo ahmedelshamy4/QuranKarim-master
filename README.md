@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 # Api
 https://alquran.cloud/api
 
-<p align="center">
+
 ![splash_screen](https://user-images.githubusercontent.com/26741217/167068776-7772fe3e-d647-40a9-b651-6ca59d452e05.jpg)
 ![welcome_view](https://user-images.githubusercontent.com/26741217/167069106-562d5079-c1be-476a-b77d-1da88f76e391.jpg)
 ![home_view](https://user-images.githubusercontent.com/26741217/167069217-defb937f-77dd-4980-887e-4cb1ce39a738.jpg)
@@ -33,4 +33,4 @@ https://alquran.cloud/api
 ![praryTimes](https://user-images.githubusercontent.com/26741217/167069673-41f689c0-bec7-4210-952f-42c167391b90.jpg)
 ![radio](https://user-images.githubusercontent.com/26741217/167069691-68b7f063-7473-4388-9420-c881cc4a9bf8.jpg)
 ![live](https://user-images.githubusercontent.com/26741217/167069704-26497c53-1452-4c86-9179-033a0d1ad50a.jpg)
-  </p>
+  
