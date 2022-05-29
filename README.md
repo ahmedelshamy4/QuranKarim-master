@@ -19,29 +19,28 @@
 <p align="center">
 ✨ Plugins and Concepts :
   
-    <p>.This project is built using MVVM architecture pattern with Provider for state management.</p>
-    <p>.Functional programming concept using dartz plugin for handling server errors and exceptions.</p>
-    <p>.Dio package to call api.</p>
-    <p>.Hive database to caching data on local storage.</p>
-    <p>.Pull To Refresh to make a pagination on local data.</p>
-    <p>.Assets Audio Player package to play audio from remote api and streaming on radio api.</p>
-    <p>.YouTube Player Flutter package to play live channels from (https://www.youtube.com/).</p>
-    <p>.Qiblah package to detect qiblah about current device location.</p>
-    <p>.Geolocator and Adhan packages to detect current location point from GBS and after that detect prayer times.</p>
-    <p>.Screen util package for responsive design.</p>
-    <p>.Remote data from (https://alquran.cloud/api) api source.</p>
+    <p>This project is built using MVVM architecture pattern with Provider for state management</p>
+    <p>Functional programming concept using dartz plugin for handling server errors and exceptions</p>
+    <p>Dio package to call api</p>
+    <p>Hive database to caching data on local storage</p>
+    <p>Pull To Refresh to make a pagination on local data</p>
+    <p>Assets Audio Player package to play audio from remote api and streaming on radio api</p>
+    <p>YouTube Player Flutter package to play live channels from (https://www.youtube.com/)</p>
+    <p>Qiblah package to detect qiblah about current device location</p>
+    <p>Geolocator and Adhan packages to detect current location point from GBS and after that detect prayer times</p>
+    <p>Screen util package for responsive design.</p>
+    <p>Remote data from (https://alquran.cloud/api) api source</p>
       
 </p>
 <p align="center">
-<p align="center">
 ✨ App Features :
   
-    <p>.ative Splash screen.</p>
-    <p>.eading and Listening All Quran.</p>
-   <p>.Assmaa Allah Alhosna and all descrption for one of theme.</p>
-   <p>.Prayer Times.</p>
-  <p> Qiblah.</p>
-  <p> Prayer Times.</p>
-    <p>.Radio.</p>
-    <p>.Live YouTube channels.</p>
+    <p>ative Splash screen</p>
+    <p>eading and Listening All Quran</p>
+   <p>Assmaa Allah Alhosna and all descrption for one of theme</p>
+   <p>Prayer Times</p>
+  <p> Qiblah</p>
+  <p> Prayer Times</p>
+    <p>Radio</p>
+    <p>Live YouTube channels</p>
 </p>
