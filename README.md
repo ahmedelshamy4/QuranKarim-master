@@ -30,7 +30,7 @@
     .Screen util package for responsive design.
     .Remote data from (https://alquran.cloud/api) api source.
 </p>
-
+<p align="center">
 <p align="center">
 ✨ App Features :
   
