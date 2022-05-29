@@ -1,5 +1,6 @@
 # 🔥 Qurani Karim
 <p>Qurani Karim is the islamic application that you can read quran and listen to it.</p>
+
 <img src="https://user-images.githubusercontent.com/26741217/167068776-7772fe3e-d647-40a9-b651-6ca59d452e05.jpg" width="15%"></img>
 <img src="https://user-images.githubusercontent.com/26741217/167069106-562d5079-c1be-476a-b77d-1da88f76e391.jpg" width="15%"></img>
 <img src="https://user-images.githubusercontent.com/26741217/167069217-defb937f-77dd-4980-887e-4cb1ce39a738.jpg" width="15%"></img>
@@ -17,27 +18,29 @@
   
 <p align="center">
 ✨ Plugins and Concepts :
-  
-
-    This project is built using MVVM architecture pattern with Provider for state management.
-    Functional programming concept using dartz plugin for handling server errors and exceptions.
-    Dio package to call api.
-    Hive database to caching data on local storage.
-    Pull To Refresh to make a pagination on local data.
-    Assets Audio Player package to play audio from remote api and streaming on radio api.
-    YouTube Player Flutter package to play live channels from (https://www.youtube.com/).
-    Qiblah package to detect qiblah about current device location.
-    Geolocator and Adhan packages to detect current location point from GBS and after that detect prayer times.
-    Screen util package for responsive design.
-    Remote data from (https://alquran.cloud/api) api source.
-
+    .This project is built using MVVM architecture pattern with Provider for state management.
+    .Functional programming concept using dartz plugin for handling server errors and exceptions.
+    .Dio package to call api.
+    .Hive database to caching data on local storage.
+    .Pull To Refresh to make a pagination on local data.
+    .Assets Audio Player package to play audio from remote api and streaming on radio api.
+    .YouTube Player Flutter package to play live channels from (https://www.youtube.com/).
+    .Qiblah package to detect qiblah about current device location.
+    .Geolocator and Adhan packages to detect current location point from GBS and after that detect prayer times.
+    .Screen util package for responsive design.
+    .Remote data from (https://alquran.cloud/api) api source.
 </p>
-<p align="center">
 
 <p align="center">
 ✨ App Features :
   
-<p>.Native Splash screen.</p>
-<p>.Search bar for searching about any product.</p>
-<p>.Possibility to save favorite product.</p>
+
+    .ative Splash screen.
+    .eading and Listening All Quran.
+   .Assmaa Allah Alhosna and all descrption for one of theme.
+   .Prayer Times.
+    .adio.
+    .ive YouTube channels.
+    .ark mode and Light mode.
+
 </p>
