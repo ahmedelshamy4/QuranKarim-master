@@ -19,17 +19,17 @@
 <p align="center">
 ✨ Plugins and Concepts :
   
-    . This project is built using MVVM architecture pattern with Provider for state management 
-    <p>Functional programming concept using dartz plugin for handling server errors and exceptions</p>
-    <p>Dio package to call api</p>
-    <p>Hive database to caching data on local storage</p>
-    <p>Pull To Refresh to make a pagination on local data</p>
-    <p>Assets Audio Player package to play audio from remote api and streaming on radio api</p>
-    <p>YouTube Player Flutter package to play live channels from (https://www.youtube.com/)</p>
-    <p>Qiblah package to detect qiblah about current device location</p>
-    <p>Geolocator and Adhan packages to detect current location point from GBS and after that detect prayer times</p>
-    <p>Screen util package for responsive design.</p>
-    <p>Remote data from (https://alquran.cloud/api) api source</p>
+    . This project is built using MVVM architecture pattern with Provider for state management .
+    .Functional programming concept using dartz plugin for handling server errors and exceptions.
+    .Dio package to call api.
+    .Hive database to caching data on local storage.
+    .Pull To Refresh to make a pagination on local data.
+    .Assets Audio Player package to play audio from remote api and streaming on radio api.
+    .YouTube Player Flutter package to play live channels from (https://www.youtube.com/).
+    .Qiblah package to detect qiblah about current device location.
+    .Geolocator and Adhan packages to detect current location point from GBS and after that detect prayer times.
+    .Screen util package for responsive design.
+    .Remote data from (https://alquran.cloud/api) api source.
       
 </p>
 <p align="center">
