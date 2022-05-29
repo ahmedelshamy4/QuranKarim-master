@@ -35,12 +35,12 @@
 <p align="center">
 ✨ App Features :
   
-    <p>ative Splash screen</p>
-    <p>eading and Listening All Quran</p>
-   <p>Assmaa Allah Alhosna and all descrption for one of theme</p>
-   <p>Prayer Times</p>
-  <p> Qiblah</p>
-  <p> Prayer Times</p>
-    <p>Radio</p>
-    <p>Live YouTube channels</p>
+    .ative Splash screen.
+    .eading and Listening All Quran.
+   .Assmaa Allah Alhosna and all descrption for one of theme.
+   .Prayer Times.
+  . Qiblah.
+  . Prayer Times.
+    .Radio.
+    .Live YouTube channels.
 </p>
