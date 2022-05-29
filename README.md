@@ -19,7 +19,7 @@
 <p align="center">
 ✨ Plugins and Concepts :
   
-    <p> This project is built using MVVM architecture pattern with Provider for state management </p>
+    . This project is built using MVVM architecture pattern with Provider for state management 
     <p>Functional programming concept using dartz plugin for handling server errors and exceptions</p>
     <p>Dio package to call api</p>
     <p>Hive database to caching data on local storage</p>
