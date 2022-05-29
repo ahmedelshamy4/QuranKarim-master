@@ -1,25 +1,12 @@
 # quran_karim
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# Api
-https://alquran.cloud/api
 
 
-![splash_screen](https://user-images.githubusercontent.com/26741217/167068776-7772fe3e-d647-40a9-b651-6ca59d452e05.jpg)
+<p align="center"> # Api </p>
+<p> https://alquran.cloud/api </p>
+
+
+<img src="https://user-images.githubusercontent.com/26741217/167068776-7772fe3e-d647-40a9-b651-6ca59d452e05.jpg" width="15%"></img>
 ![welcome_view](https://user-images.githubusercontent.com/26741217/167069106-562d5079-c1be-476a-b77d-1da88f76e391.jpg)
 ![home_view](https://user-images.githubusercontent.com/26741217/167069217-defb937f-77dd-4980-887e-4cb1ce39a738.jpg)
 ![drawer_view](https://user-images.githubusercontent.com/26741217/167069305-f38369e2-7ce2-4464-81f5-087ee499c860.jpg)
